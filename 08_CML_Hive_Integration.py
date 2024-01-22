@@ -23,3 +23,7 @@ temp_df.write.mode("overwrite").saveAsTable("default.curated_0101")
 
 df2=spark.sql("show tables")
 df2.show()
+
+
+df2=spark.sql("select * from default.curated_0101 limit 5")
+df2.show()
