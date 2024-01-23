@@ -5,3 +5,6 @@ https://login.cdpworkshops.cloudera.com/auth/realms/marketing-workshop1/protocol
 
 # Sharing data through:
 https://notepad.pw/sonaesparkday
+
+# Please, give your feedback!
+https://docs.google.com/forms/d/1pTwFHsBl3N_COhEUOXFvgogKsUAw3nIEQ-c5vlKxfvE/
